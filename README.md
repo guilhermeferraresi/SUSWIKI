@@ -1,4 +1,5 @@
-<center># SUSWIKI</center>
+# SUSWIKI
+## Integrantes:
 ### Daniel Dias Bueno
 ### Eduardo Borges Brandão
 ### Eric Oliveira Sampaio
