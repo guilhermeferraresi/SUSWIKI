@@ -1,4 +1,4 @@
-<center># SUSWIKI</center>center>
+<center># SUSWIKI</center>
 ### Daniel Dias Bueno
 ### Eduardo Borges Brandão
 ### Eric Oliveira Sampaio
