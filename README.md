@@ -20,3 +20,6 @@ O app permiti uma fácil navegação entre filmes de suspense e o históricos do
 * Links internos para todas as telas: atores, diretores, historico, principal, detalhes do filmes e filmes destaque
 * Campo de busca 
 * Link externo para trailer do filme
+
+# Link para a wiki:
+<a href="https://github.com/guilhermeferraresi/SUSWIKI/wiki/Prot%C3%B3tipo-e-detalhamento-de-Widgets">Protótipo e detalhamento de Widgets</a>
